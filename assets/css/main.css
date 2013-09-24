@@ -1,0 +1,76 @@
+body {
+padding-top: 20px;
+padding-bottom: 40px;
+}
+h3 {
+text-align:center;
+}
+
+/* Custom container */
+.container-narrow {
+margin: 0 auto;
+max-width: 700px;
+}
+.container-narrow > hr {
+margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+margin: 60px auto;
+text-align: center;
+}
+.jumbotron h1 {
+font-size: 72px;
+line-height: 1;
+}
+.jumbotron .btn {
+font-size: 21px;
+padding: 14px 24px;
+}
+
+h3.muted {
+}
+
+/* Supporting marketing content */
+.marketing {
+margin: 60px 0;
+}
+.marketing p + h4 {
+margin-top: 28px;
+}
+
+.mises {
+background:url(/assets/images/Mises-thumbs-up.png) no-repeat;
+-moz-border-radius:52px;
+-webkit-border-radius:52px;
+border-radius:50%;
+width:350px;
+height:350px;
+margin:auto;
+}
+
+.profile {
+ -moz-border-radius:52px;
+ -webkit-border-radius:52px;
+ border-radius:50%;
+  width:200px;
+  height:200px;
+}
+
+img.gray {
+  filter: url(/assets/images/filters.svg#grayscale); /* Firefox 3.5+ */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+
+img.gray:hover {
+filter: none;
+-webkit-filter: grayscale(0);
+cursor:pointer;
+}
+
+.licoes li {
+	margin-left:3em
+}
+
