@@ -1,9 +1,11 @@
 ---
 layout: licao
+permalink: /licao/
+
 title: Intervencionismo
 number: 23
 comments: true
-permalink: /licoes/23/
+
 type: lesson
 
 profile-photo: /assets/images/licoes/diogenes.JPG
