@@ -1,6 +1,5 @@
 ---
 layout: licao
-permalink: /licao/
 
 title: Intervencionismo
 number: 23
